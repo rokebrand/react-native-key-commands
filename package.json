@@ -7,11 +7,7 @@
     "react-native"
   ],
   "license": "MIT",
-  "author": {
-    "name": "Brendan Rokebrand",
-    "email": "brendan@rokebrand.co.za",
-    "url": "http://rokebrand.co.za"
-  },
+  "author": "Brendan Rokebrand <brendan@rokebrand.co.za> (http://rokebrand.co.za)",
   "rnpm": {},
   "devDependencies": {
     "@types/node": "^8.0.26",
@@ -24,5 +20,17 @@
   },
   "_resolved": "",
   "_integrity": "",
-  "_from": "@rokebrand/react-native-key-commands"
+  "_from": "@rokebrand/react-native-key-commands",
+  "description": "iOS [UIKeyCommand](https://developer.apple.com/documentation/uikit/uikeycommand) native component for React Native",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rokebrand/react-native-key-commands.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rokebrand/react-native-key-commands/issues"
+  },
+  "homepage": "https://github.com/rokebrand/react-native-key-commands#readme"
 }
